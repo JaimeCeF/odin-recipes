@@ -15,7 +15,11 @@ p {
     background-color: mediumaquamarine;
 }
 
-.bannimg{
-    width: 300 px;
-    height: auto;
+.ingr{
+    background-color: lightskyblue;
 }
+
+  .bannimg img {
+    max-width: 100%;
+    width: auto;
+  }
