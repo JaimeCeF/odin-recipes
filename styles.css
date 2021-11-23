@@ -1,0 +1,21 @@
+.title{
+    font-size: larger;
+    color: lightslategray;
+    background-color: linen;
+}
+
+.subtit{
+    font-size: large;
+    color: lightslategray;
+    background-color: linen;
+}
+
+p {
+    font-size: medium;
+    background-color: mediumaquamarine;
+}
+
+.bannimg{
+    width: 300 px;
+    height: auto;
+}
